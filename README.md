@@ -17,4 +17,12 @@ output string : aalmymlaa
 
 Q: Code rounding <software company>
 ==========================================================================================================================================
+Question 2:
+Given an interger value and set of numbers. Find the power set of the numbers. 
+Example:
+input : 3
+setnos: 1 2 3 
+output: {} , 1 , 2 , 3 , 1 2 , 1 3 , 2 3 , 1 2 3
 
+Q: Code rounding < software company>
+=========================================================================================================================================
