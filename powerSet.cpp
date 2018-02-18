@@ -17,7 +17,7 @@ int main()
 		cin >> a_nos[i_run];
 	}
 	
-	cout << "the power set nos: \nNULL_SET"<< endl;
+	cout << "the power set nos: \nset#0:NULL_SET"<< endl;
 	for(i_run = 1; i_run < pow(2,i_n); i_run++)
 	{
 		x = i_run;
